@@ -1,5 +1,13 @@
-## Hi there 👋
+<hr/>
 
+## Data Analytics|Finance & Accounting|AI Enabled
+
+Onah Favour --> A financial accounting student combining data analytics and AI to better understand,analyze, and solve financial problems.
+- Finance & Accounting student
+- Learning Data Analytics and AI
+- Applying analytics to financial problems
+- Always learning, always improving
+- connect with me on [Linkedin](www.linkedin.com/in/favouronah)
 <!--
 **Pheonia/Pheonia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
